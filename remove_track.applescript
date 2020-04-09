@@ -1,5 +1,5 @@
 (*
-osascript add_file.applescript "name" "artist"
+osascript remove_track.applescript "name" "artist"
 *)
 
 on run track_args
